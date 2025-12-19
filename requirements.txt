@@ -1,0 +1,8 @@
+fastapi
+numpy
+pandas
+uvicorn
+sqlalchemy
+pydantic
+requests
+websockets
